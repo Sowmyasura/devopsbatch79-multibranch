@@ -2,13 +2,13 @@ pipeline {
     agent any
 
     stages {   
-        stage('Mastewrwfgddhdfdhdfhhdfhdw branch') { 
+        stage('mmmmmmmmmMastewrwfgddhdfdhdfhhdfhdw branch') { 
             steps { 
                sh 'echo "This is master bddffasnch"' 
             }
         }
      
-        stage('sprint1') { 
+        stage('sprimmmmmmmmnt1') { 
             steps { 
                sh 'echo "sprint1 applicatiwegwertreyeryeryeyeon..."'
             }
